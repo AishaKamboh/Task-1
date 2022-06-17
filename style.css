@@ -1,0 +1,104 @@
+.left-container{
+    width: 70%;
+    height: 500px;
+    float: left;
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.inner-container{
+    float: left;
+}
+.span1{
+    float: left;
+    margin-top: 15px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.container{
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.header{
+text-align: center;
+}
+.logo {
+    margin-top: 10px;
+    
+}
+.fa-facebook-square{
+    font-size: 30px;
+    padding-right: 10px;
+    color: rgb(23, 23, 190);
+}
+.fa-google-plus-square{
+    font-size: 30px;
+    padding-right: 10px;
+    color: red;
+}
+.fa-linkedin-square{
+    font-size: 30px;
+    color: rgb(13, 13, 141);
+}
+.form-container{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 15px;
+    
+}
+.formfeild input{
+    width: 97%;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 10px;
+    margin-top: 10px;
+    height: 40px;
+    background-color: rgb(239, 249, 250);
+    border-radius: 10px;
+}
+.form-container input[type="submit"]{
+    
+    width: 40%;
+    height: 40px;
+    border: none;
+    background-color: rgba(34, 187, 14, 0.603);
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    margin-left: 95px;
+    margin-top: 20px;
+    padding: 10px 0px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.right-container{
+    background-image: url('img.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 30%;
+    height: 500px;
+    float: left;
+}
+.containerfield{
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}
+.containerfield input[type="submit"]{
+    width: 50%;
+    height: 40px;
+    border: none;
+    background-color: white;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+    padding: 10px 0px;
+    border-radius: 15px;
+    cursor: pointer;
+}
